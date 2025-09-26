@@ -1,4 +1,16 @@
 <p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F738AF&width=700&lines=Hello!+I%27m+Maaz+Bin+Fazal;I+love+solving+problems+and+doing+reserach+work;Electronics+Engineer+%7C+Embedded+AI+%7C+Robotics)](https://git.io/typing-svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+
+![Profile views](https://komarev.com/ghpvc/?username=MAAZBINFAZAL&color=blue)  
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)  
+![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)
+
+<p align="center">
   <img src="./assets/banner.png" alt="banner" />
 </p>
 
