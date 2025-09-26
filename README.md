@@ -3,10 +3,6 @@
 </p>
 
 # Hi, I'm Maaz Bin Fazal 👋
-<p align="center">
-  <img src="./assets/Profile.jpg" width="200" style="border-radius:50%">
-</p>
-
 
 **Electronics Engineer • Embedded Systems • Embedded AI / Computer Vision**  
 UCET, Islamia University of Bahawalpur — B.E. Electronics (CGPA 3.31/4.0)
