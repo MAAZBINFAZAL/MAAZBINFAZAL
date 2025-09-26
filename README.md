@@ -66,16 +66,17 @@ _Deployed on Nebius AI, registered in Coral Registry._
 
 ---
 
+
+## 🎓 Academic Projects
+- **Fruit Quality Detection (YOLOv8)** — [Demo & Report](https://drive.google.com/file/d/1l7DIGvR88hxMoFmObeTmAsxi1EJdHD1i/view?usp=drivesdk)  
+- **Vending Machine (Verilog, Spartan XC400)** — [Report](https://drive.google.com/file/d/1MUcOKalmxKPxUX2KSLzeLqE8pO48Oo1t/view?usp=sharing)  
+- **Student Performance Predictor (ML + Web)** — [Live Demo](https://ai-gpa-predictor.onrender.com/) | [Report](https://drive.google.com/file/d/1ECDrtKkW0nQosUWe1i6EVG9sv7e6ReES/view?usp=sharing)  
+- **PLC Industrial Automation (Siemens & Fatek PLCs)** — [Report](https://drive.google.com/file/d/1rznTFA4-DYqmqUUi61ngAX1QEqGN94sH/view?usp=sharing)  
+- **Home Automation (Arduino,mobile app,control(Motor,Bulb,Fan))** — [Report](https://drive.google.com/file/d/1NV5BGY3g_vNZIjngKKXBd6BCwd0D3wbW/view?usp=drivesdk)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+
+---
 ## 🏆 Achievements & Certifications
-
-- MultiLanguage 🌍  
-- Rainbow Lang User 🌈  
-- Organizations ⭐ Jack of all Trades  
-- Commits 🔥 Deep Committer — 3.0k+  
-- Repositories 📦 Super Repo Creator — 82+  
-- Issues 📝 High Issuer — 23+  
-- Pull Requests 🔧 High Puller — 20+  
-
 <p align="center">
   <img src="https://camo.githubusercontent.com/c58ec181f01dc802bb4ec74d32a46022cd4235bb10b2a07a38a870ab4e9565be/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616264756c6c616878797a3835267468656d653d636861727472657573652d6461726b26726f773d3126636f6c756d6e3d37" width="70%"/>
 </p>
@@ -83,21 +84,10 @@ _Deployed on Nebius AI, registered in Coral Registry._
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ---
-
-## 🎓 Academic Projects
-- **Fruit Quality Detection (YOLOv8)** — [Demo & Report](https://drive.google.com/file/d/1NV5BGY3g_vNZIjngKKXBd6BCwd0D3wbW/view?usp=drivesdk)  
-- **Vending Machine (Verilog, Spartan XC400)** — [Report](https://drive.google.com/file/d/1rznTFA4-DYqmqUUi61ngAX1QEqGN94sH/view?usp=sharing)  
-- **Student Performance Predictor (ML + Web)** — [Live Demo](https://ai-gpa-predictor.onrender.com/) | [Report](https://drive.google.com/file/d/1MUcOKalmxKPxUX2KSLzeLqE8pO48Oo1t/view?usp=sharing)  
-- **PLC Industrial Automation (Siemens & Fatek PLCs)** — [Report](https://drive.google.com/file/d/1l7DIGvR88hxMoFmObeTmAsxi1EJdHD1i/view?usp=drivesdk)  
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:maazbinfazal378@gmail.com">
+  <a href="mailto:maazbinfazal44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/maazbinfazal/">
