@@ -14,52 +14,104 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
+---
+
+## 📌 About Me
+- Scored **120/160** in Duolingo English Test (IELTS **6.5/9** equivalent).  
+- Selected as **Team Leader** in academic projects.  
+- Awarded **state merit scholarship** at university.  
+- Led **50+ volunteers** to prepare **500+ underprivileged students** for entrance exams.  
+- Conducted **YOLO optimization research** — paper under IEEE review.  
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+
+---
+
+## ⚙️ Skills
+
+**🔬 AI/ML**  
+`YOLOv8` `PyTorch` `NumPy` `OpenCV` `Scikit-learn`
+
+**🌐 Frontend**  
+`HTML` `CSS` `JavaScript`
+
+**🛠 Backend**  
+`Node.js` `Flask`
+
+**🧰 Code Editors**  
+`VS Code` `MATLAB` `Arduino IDE`
+
+**🧑‍💻 Languages**  
+`Python` `C++` `VHDL` `Verilog`
+
+**🧳 Other Tools**  
+`Git` `LaTeX` `CoppeliaSim` `PLC Ladder Logic`
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+
+---
+
+## 🌍 International Hackathon
+- **ETH Global – Roblox Styler Agent**  
+AI-powered Roblox outfit generator using Node.js, Coral Protocol, Mistral AI.  
+_Deployed on Nebius AI, registered in Coral Registry._  
+
 <p align="center">
-  <img src="./assets/banner.png" alt="banner" />
+  <img src="./assets/hackathon-banner.png" width="80%" alt="Hackathon Project Banner"/>
 </p>
 
-# Hi, I'm Maaz Bin Fazal 👋
+👉 [Hackathon Project Page](https://lablab.ai/event/internet-of-agents/roblox-marketplace-ai/roblox-marketplace-agent)
 
-**Electronics Engineer • Embedded Systems • Embedded AI / Computer Vision**  
-UCET, Islamia University of Bahawalpur — B.E. Electronics (CGPA 3.31/4.0)
-
-I build real-time embedded & AI systems — from YOLO-based fruit quality detection (FYP: 90%+ mAP) to robotics/PLC automation and hackathon AI agents (ETH Global Roblox Styler). I’m open to collaboration on embedded AI, computer vision, and automation.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ---
 
-### 🔭 Current work & research
-- **FYP:** Automated Fruit Quality Detection — optimized YOLOv8 for real-time sorting (90%+ mAP).  
-- **Hackathon:** Roblox Styler Agent (ETH Global) — Node.js backend + Mistral AI + Coral Registry.  
-- **Research:** YOLO optimization — manuscript under IEEE review.
+## 🏆 Achievements & Certifications
+
+- MultiLanguage 🌍  
+- Rainbow Lang User 🌈  
+- Organizations ⭐ Jack of all Trades  
+- Commits 🔥 Deep Committer — 3.0k+  
+- Repositories 📦 Super Repo Creator — 82+  
+- Issues 📝 High Issuer — 23+  
+- Pull Requests 🔧 High Puller — 20+  
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c58ec181f01dc802bb4ec74d32a46022cd4235bb10b2a07a38a870ab4e9565be/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616264756c6c616878797a3835267468656d653d636861727472657573652d6461726b26726f773d3126636f6c756d6e3d37" width="70%"/>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ---
 
-### 🧑‍💻 Featured Projects (click to open)
-- **Fruit Quality Detection (FYP)** — real-time YOLOv8 + conveyor sorting. — `https://github.com/MAAZBINFAZAL/fyp-fruit-quality-detection`
-- **Roblox Styler Agent** — AI-powered outfit generator (ETH Global). — `https://github.com/MAAZBINFAZAL/roblox-styler-agent`
-- **PLC Industrial Automation** — Siemens & Fatek PLCs, ladder logic projects. — `https://github.com/MAAZBINFAZAL/plc-industrial-automation`
-- **Vending Machine (Verilog)** — Spartan XC400 implementation. — `https://github.com/MAAZBINFAZAL/vending-machine-verilog`
-- **Student Performance Predictor** — ML + web deployment. — `https://github.com/MAAZBINFAZAL/student-performance-predictor`
+## 🎓 Academic Projects
+- **Fruit Quality Detection (YOLOv8)** — [Demo & Report](https://drive.google.com/file/d/1NV5BGY3g_vNZIjngKKXBd6BCwd0D3wbW/view?usp=drivesdk)  
+- **Vending Machine (Verilog, Spartan XC400)** — [Report](https://drive.google.com/file/d/1rznTFA4-DYqmqUUi61ngAX1QEqGN94sH/view?usp=sharing)  
+- **Student Performance Predictor (ML + Web)** — [Live Demo](https://ai-gpa-predictor.onrender.com/) | [Report](https://drive.google.com/file/d/1MUcOKalmxKPxUX2KSLzeLqE8pO48Oo1t/view?usp=sharing)  
+- **PLC Industrial Automation (Siemens & Fatek PLCs)** — [Report](https://drive.google.com/file/d/1l7DIGvR88hxMoFmObeTmAsxi1EJdHD1i/view?usp=drivesdk)  
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ---
 
-### 🧰 Tech & Tools
-`Python` `C++` `VHDL` `Verilog` `Arduino` `MATLAB` `YOLOv8` `PyTorch` `NumPy` `OpenCV` `Scikit-learn` `Git` `LaTeX`
+## 🔗 Connect With Me
 
----
+<p align="center">
+  <a href="mailto:maazbinfazal378@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maazbinfazal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/MaazBinFazal/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://lablab.ai/u/@maaz_bin_fazal90">
+    <img src="https://img.shields.io/badge/LabLab.ai-000000?style=for-the-badge&logo=protocols-dot-io&logoColor=white" />
+  </a>
+  <a href="http://discordapp.com/users/1403011331325432029">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
-### 🏆 Highlights
-- Led a team (50+ volunteers) to prepare 500+ underprivileged students for university entrance exams.  
-- Conducted YOLO optimization research; paper under IEEE review.  
-- FYP achieved **90%+ mAP** on validation for fruit quality detection.
-
----
-
-### 📫 Contact
-- Email: [maazbinfazal44@gmail.com](mailto:maazbinfazal44@gmail.com)  
-- LinkedIn: https://www.linkedin.com/in/maazbinfazal/  
-- WhatsApp: +92 348 4400861
-
----
-
-If you want to see code, demos, or collaborate — check my pinned projects below or open an issue in the repo you like.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
