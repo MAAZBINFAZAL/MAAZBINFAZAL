@@ -1,6 +1,6 @@
 <!-- Top badges -->
 <p align="left">
-  <img src="https://img.shields.io/badge/committers.top-rank-unranked-orange" alt="committers.top rank" />
+  <img src="https://committers.top/pakistan/MAAZBINFAZAL.svg" alt="committers.top badge" />
   <img src="https://komarev.com/ghpvc/?username=MAAZBINFAZAL&color=blue" alt="Profile views" />
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love" />
   <img src="https://img.shields.io/badge/Awesome-Yes-brightgreen" alt="Awesome" />
@@ -68,10 +68,10 @@ _Deployed on Nebius AI, registered in Coral Registry._
 
 
 ## 🎓 Academic Projects
-- **Fruit Quality Detection (YOLOv8)** — [Demo & Report](https://drive.google.com/file/d/1l7DIGvR88hxMoFmObeTmAsxi1EJdHD1i/view?usp=drivesdk)  
+- **Fruit Quality Detection (YOLOv8)** — [Research work](https://drive.google.com/file/d/1l7DIGvR88hxMoFmObeTmAsxi1EJdHD1i/view?usp=drivesdk)  
 - **Vending Machine (Verilog, Spartan XC400)** — [Report](https://drive.google.com/file/d/1MUcOKalmxKPxUX2KSLzeLqE8pO48Oo1t/view?usp=sharing)  
 - **Student Performance Predictor (ML + Web)** — [Live Demo](https://ai-gpa-predictor.onrender.com/) | [Report](https://drive.google.com/file/d/1ECDrtKkW0nQosUWe1i6EVG9sv7e6ReES/view?usp=sharing)  
-- **PLC Industrial Automation (Siemens & Fatek PLCs)** — [Report](https://drive.google.com/file/d/1rznTFA4-DYqmqUUi61ngAX1QEqGN94sH/view?usp=sharing)  
+- **PLC Industrial Automation (Siemens & Fatek PLCs)** — [List of tasks performed](https://drive.google.com/file/d/1rznTFA4-DYqmqUUi61ngAX1QEqGN94sH/view?usp=sharing)  
 - **Home Automation (Arduino,mobile app,control(Motor,Bulb,Fan))** — [Report](https://drive.google.com/file/d/1NV5BGY3g_vNZIjngKKXBd6BCwd0D3wbW/view?usp=drivesdk)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
@@ -87,7 +87,7 @@ _Deployed on Nebius AI, registered in Coral Registry._
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:maazbinfazal44@gmail.com">
+  <a href="maazbinfazal378@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/maazbinfazal/">
