@@ -91,8 +91,8 @@ _Deployed on Nebius AI, registered in Coral Registry._
 
 <p align="center">
   <a href="mailto:maazbinfazal378@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
   <a href="https://www.linkedin.com/in/maazbinfazal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
