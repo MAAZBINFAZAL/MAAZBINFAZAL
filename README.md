@@ -2,8 +2,8 @@
 <!-- Top badges -->
 <p align="left">
   <a href="https://committers.top/pakistan/MAAZBINFAZAL">
-    <img src="https://enji.dev/api/committers-badge/pakistan/MAAZBINFAZAL" alt="committers.top badge" />
-  </a>
+  <img src="https://img.shields.io/badge/committers.top-Maaz%20Bin%20Fazal-orange" alt="committers.top badge" />
+</a>
   <img src="https://komarev.com/ghpvc/?username=MAAZBINFAZAL&color=blue" alt="Profile views" />
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love" />
   <img src="https://img.shields.io/badge/Awesome-Yes-brightgreen" alt="Awesome" />
@@ -90,9 +90,9 @@ _Deployed on Nebius AI, registered in Coral Registry._
 ## 🔗 Connect With Me
 
 <p align="center">
-   <a href="mailto:maazbinfazal378@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
+  <a href="mailto:maazbinfazal378@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/maazbinfazal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
