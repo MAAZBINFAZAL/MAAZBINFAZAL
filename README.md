@@ -71,6 +71,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/MATLAB%2FSimulink-FF8000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoppeliaSim-1E88E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/CoppeliaSim-004E89?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Tinkercad-1477D4?style=for-the-badge&logo=tinkercad&logoColor=white" />
