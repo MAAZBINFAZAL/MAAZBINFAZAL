@@ -44,8 +44,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog%20HDL-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-6A5ACD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-%20VHDL-8A2BE2?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded%20C-283593?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -74,7 +73,6 @@
   <img src="https://img.shields.io/badge/CoppeliaSim-1E88E5?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CoppeliaSim-004E89?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Tinkercad-1477D4?style=for-the-badge&logo=tinkercad&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32%20CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Esim-607D8B?style=for-the-badge&logoColor=white" />
@@ -107,7 +105,7 @@
 
 - **[C2] Deepfake Detection Techniques: A Comprehensive Review of Deep Learning, Machine Learning, and Traditional Paradigms**  
   _Preprint / Working Paper, 2025_  
-  👉 [PDF](https://drive.google.com/file/d/13uSFq_EpoYWO4Amfzfqq2HVVTtTO1hS6/view)
+  
 
 - **[J1] Design & Implementation of AC to DC Converter for Efficient Power Conversion**  
   _Spectrum of Engineering Sciences, Vol. 4, No. 4, pp. 1392–1405, 2026_  
@@ -115,11 +113,11 @@
 
 - **[J2] Q-INTEL: Hybrid Quantum Classical Intelligence for Autonomous Engineering Systems**  
   _Under first-round review, 2025_  
-  👉 [PDF](https://drive.google.com/file/d/1YWQDqMSKN1FV7ckgiYugaboltfTZkljX/view)
+  
 
 - **[J3] Trust Enhanced RISC-V IEEE-754 FPU: ECC, Redundancy, and Firewall Protected Execution for SweRV EH1**  
   _Manuscript in progress, 2025_  
-  👉 [PDF](https://drive.google.com/file/d/1kjK8vx2XPFtE5Z8rWCC2WHTyk4-teBii/view)
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
