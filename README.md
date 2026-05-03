@@ -10,7 +10,12 @@
   <img src="https://img.shields.io/badge/Stanford-Code%20in%20Place-red" alt="Stanford Code in Place" />
 </p>
 
+## 🚀 Looking for PhD Position  
+**Electronics & Software Engineer | Stanford Section Leader | Harvard CS50x Winner**  
+**Robotics • Machine Learning • Embedded Systems • FPGA • VLSI • Industrial Automation • Agentic AI • LLMs**
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F738AF&width=900&lines=Hello!+I%27m+Maaz+Bin+Fazal;Electronics+Engineer+%7C+Embedded+AI+%7C+Robotics;AI%2FML+Researcher+%7C+Open+Source+Contributor;Stanford+Code+in+Place+Section+Leader)](https://git.io/typing-svg)
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
